@@ -1,3 +1,7 @@
+# name :sahil wagh
+# gr no :11810821
+# roll no :65
+# div: m
 x=int(input("ENTER THE NUMBER TO FIND IT'S FACTORIAL="))
 y=x
 total=1

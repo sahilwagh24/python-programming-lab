@@ -1,3 +1,7 @@
+# name : sahil wagh
+   div : m roll no:65
+   gr no:11810821
+
 def armstrong(n):
     sum=0
     t=n
